@@ -1,4 +1,9 @@
-# Chương Trình Đếm Phiếu Bầu
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=450&lines=Vote+Counting+Project" alt="Typing SVG" /></a>
+</p>
+<div align="center">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/CptDat9/vote_counting?labelColor=7AA2E3&color=97E7E1">
+</div>
 
 Chương trình Python này giúp tạo hệ thống bầu chọn đơn giản, cho phép nhiều người tham gia bầu chọn từ các lựa chọn có sẵn. Sau khi tất cả phiếu được ghi nhận, chương trình sẽ tính tổng và hiển thị kết quả theo thứ tự từ cao đến thấp.
 
