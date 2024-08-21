@@ -1,4 +1,4 @@
-# Chương Trình Đếm Phiếu
+# Chương Trình Đếm Phiếu Bầu
 
 Chương trình Python này giúp tạo hệ thống bầu chọn đơn giản, cho phép nhiều người tham gia bầu chọn từ các lựa chọn có sẵn. Sau khi tất cả phiếu được ghi nhận, chương trình sẽ tính tổng và hiển thị kết quả theo thứ tự từ cao đến thấp.
 
