@@ -11,7 +11,7 @@ Chương trình Python này giúp tạo hệ thống bầu chọn đơn giản, 
 3. **Quá trình bầu chọn**:
    - Mỗi người tham gia sẽ được yêu cầu nhập lựa chọn của mình (từ 1 đến tổng số lựa chọn).
    - Nếu nhập lựa chọn không hợp lệ, chương trình sẽ yêu cầu nhập lại.
-
+P/S: với mỗi lựa chọn tương ứng với 1 số bạn phải đánh nhãn cho lựa chọn ấy (VD: đi mua hoa quả là số 1, chơi game số 2, làm việc nhà là số 3,...)
 4. **Tính kết quả**:
    - Chương trình sẽ đếm tất cả các phiếu.
    - Sau đó sắp xếp kết quả theo thứ tự giảm dần dựa trên số phiếu mỗi lựa chọn nhận được.
